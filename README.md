@@ -1,2 +1,0 @@
-# Jobs
- codigos aleatorios
